@@ -321,7 +321,7 @@ function mostrarCarta(tipo) {
 // CARTA SECRETA CON CONTRASEÑA
 // ============================================================
 // 🔑 CAMBIA ESTA CLAVE por la que quieras que ella escriba
-const CLAVE_SECRETA = "lidice";
+const CLAVE_SECRETA = "lumi";
 
 // Mensaje que verá cuando acierte
 const MENSAJE_SECRETO = `
